@@ -1,0 +1,6 @@
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Exemplo1\Exemplo1\bin\Debug\Exemplo1.exe.config
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Exemplo1\Exemplo1\bin\Debug\Exemplo1.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Exemplo1\Exemplo1\bin\Debug\Exemplo1.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Exemplo1\Exemplo1\obj\Debug\Exemplo1.csprojResolveAssemblyReference.cache
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Exemplo1\Exemplo1\obj\Debug\Exemplo1.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Exemplo1\Exemplo1\obj\Debug\Exemplo1.pdb

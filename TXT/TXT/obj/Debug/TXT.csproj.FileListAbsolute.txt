@@ -1,0 +1,6 @@
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\TXT\TXT\bin\Debug\TXT.exe.config
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\TXT\TXT\bin\Debug\TXT.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\TXT\TXT\bin\Debug\TXT.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.csprojResolveAssemblyReference.cache
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\TXT\TXT\obj\Debug\TXT.pdb

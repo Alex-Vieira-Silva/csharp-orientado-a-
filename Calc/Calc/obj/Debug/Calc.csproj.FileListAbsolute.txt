@@ -1,0 +1,5 @@
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.exe.config
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Calc\Calc\bin\Debug\Calc.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Calc\Calc\obj\Debug\Calc.pdb

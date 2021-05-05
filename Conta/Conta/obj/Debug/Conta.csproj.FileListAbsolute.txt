@@ -1,0 +1,8 @@
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Conta\Conta\bin\Debug\Conta.exe.config
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Conta\Conta\bin\Debug\Conta.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Conta\Conta\bin\Debug\Conta.pdb
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.csprojResolveAssemblyReference.cache
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.Properties.Resources.resources
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.csproj.GenerateResource.Cache
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.exe
+c:\users\rafael.desktop-sfe51cc\documents\visual studio 2015\Projects\Conta\Conta\obj\Debug\Conta.pdb
